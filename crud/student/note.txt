@@ -1,0 +1,2 @@
+still have problem with react router 6 use params
+https://www.fundaofwebit.com/post/crud-app-in-react-js-with-hooks-using-laravel-8-restful-api
